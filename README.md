@@ -1,2 +1,2 @@
-# My_data_analytics_project
+# Pizza_sales_sql
 This is analytics project 
